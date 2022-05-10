@@ -1,0 +1,14 @@
+.footer {
+  background: #de9e48;
+}
+
+.div {
+  border: solid;
+}
+
+.p {
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+}

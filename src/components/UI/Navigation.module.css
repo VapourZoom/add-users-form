@@ -1,0 +1,16 @@
+.navigation {
+  background: #de9e48;
+  width: full;
+  height: 50px;
+  border-bottom: solid;
+  position: relative;
+}
+
+.p {
+  background: #de9e48;
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0px;
+}
